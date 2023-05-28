@@ -6,6 +6,10 @@
   "module": "./src/y-websocket.js",
   "types": "./dist/src/y-websocket.d.ts",
   "sideEffects": false,
+  "engines": {
+    "pnpm": "~7.29.1",
+    "node": "~16.19.1"
+  },
   "funding": {
     "type": "GitHub Sponsors ❤",
     "url": "https://github.com/sponsors/dmonad"
